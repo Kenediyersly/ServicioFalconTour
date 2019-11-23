@@ -3,4 +3,5 @@ export interface Ranking{
     aprovacion : string;
     idservicio : string;
     idusuario : string;
+    
 }
